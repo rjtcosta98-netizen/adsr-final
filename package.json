@@ -1,0 +1,31 @@
+{
+  "name": "ad-são-romão-official",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.97.0",
+    "@tailwindcss/postcss": "^4.2.1",
+    "instafeed.js": "^2.1.0",
+    "lucide-react": "^0.563.0",
+    "next": "^16.1.6",
+    "nodemailer": "^8.0.1",
+    "postcss": "^8.5.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tailwindcss": "^4.2.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/nodemailer": "^7.0.11",
+    "@types/react": "19.2.14",
+    "typescript": "~5.8.2"
+  }
+}
